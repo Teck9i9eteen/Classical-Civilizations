@@ -1,0 +1,17 @@
+html {
+    background-color: Beige;
+    font-family: 'Romanesco', cursive; 
+    display: flex;
+}
+
+h1 {
+    text-align:Center;
+    Font-size: 24px;
+}
+
+img {
+   
+    width: 240px;
+    height: 240px;
+    border: dashed red;
+}
